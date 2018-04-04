@@ -1551,3 +1551,229 @@ body {
   background-color: #5a31fb;
   background: linear-gradient(90deg, #5a31fb, #000000);
 }
+.cid-qOfObbxRuC {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: #000828;
+  background: linear-gradient(50deg, #adac9e);
+}
+.cid-qOfObbxRuC .container-fluid {
+  padding: 45px;
+}
+.cid-qOfObbxRuC .underline {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
+.cid-qOfObbxRuC .underline .line {
+  width: 0.0px;
+  height: 0.0px;
+  display: block;
+  color: #2d10a3;
+}
+.cid-qOfObbxRuC .title-wrap {
+  padding-left: 0;
+  padding-right: 0;
+}
+.cid-qOfObbxRuC .iframe-wrap {
+  width: 1028px;
+  height: 772px;
+  z-index: 0;
+  margin-top: 0rem;
+  padding: 0rem;
+  border-radius: 5px;
+  margin-bottom: 0rem;
+  transition: all 0s ease-in-out;
+}
+.cid-qOfObbxRuC .iframe-wrap:hover {
+  transform: scale(1);
+}
+.cid-qOfObbxRuC iframe {
+  width: 1028px;
+  height: 772px;
+  z-index: 0;
+  margin-top: 0rem;
+  padding: 0rem;
+  border-radius: 5px;
+  margin-bottom: 0rem;
+  transition: all 0s ease-in-out;
+}
+.cid-qOfObbxRuC iframe:hover {
+  transform: scale(1);
+}
+.cid-qOfObbxRuC .content-section {
+  padding: 0rem;
+}
+.cid-qOfObbxRuC .btn {
+  margin-top: 4rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+.cid-qOfObbxRuC .card-wrapper {
+  width: 1028px;
+  height: 772px;
+  margin-top: 1.4rem;
+  background-color: #ffffff;
+  padding: 2rem;
+  z-index: 10;
+  border-radius: 15px;
+  margin-bottom: 3rem;
+}
+@media (max-width: 1028px) {
+  .cid-qOfObbxRuC .container-fluid {
+    padding: 0rem;
+  }
+  .cid-qOfObbxRuC .card-wrapper {
+    margin-bottom: 3rem;
+    border-radius: 15px;
+  }
+  .cid-qOfObbxRuC .title-wrap {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+.cid-qDLKkUSD6k {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #000000;
+}
+.cid-qDLKkUSD6k .follow-heading {
+  padding-right: 4rem;
+  color: #ffffff;
+}
+.cid-qDLKkUSD6k .input-form {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+.cid-qDLKkUSD6k .social-media {
+  margin-top: 1.5rem;
+  align-items: center;
+  padding-right: 4rem;
+}
+.cid-qDLKkUSD6k .social-media ul {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 8px;
+}
+.cid-qDLKkUSD6k .social-media ul li {
+  margin-right: .5rem;
+  display: inline-block;
+  margin-bottom: .5rem;
+}
+.cid-qDLKkUSD6k .subtext-1,
+.cid-qDLKkUSD6k .subtext-2 {
+  margin-bottom: .6rem;
+}
+.cid-qDLKkUSD6k .icon-transition span {
+  color: #ffffff;
+  display: flex;
+  padding: 1rem;
+  border-radius: 50%;
+  background-color: #fe525b;
+  transition: all 0.3s ease-out 0s;
+  font-size: 14px;
+}
+.cid-qDLKkUSD6k .icon-transition span:hover {
+  background-color: #bf5e63;
+}
+.cid-qDLKkUSD6k .card-support {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.cid-qDLKkUSD6k .card-support li {
+  margin-right: .4rem;
+  margin-bottom: .4rem;
+  display: inline-block;
+}
+.cid-qDLKkUSD6k .mbr-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.cid-qDLKkUSD6k .mbr-list li {
+  margin-bottom: .25rem;
+  margin-right: 1rem;
+  padding-bottom: 1rem;
+}
+.cid-qDLKkUSD6k .mbr-form {
+  margin-top: .5rem;
+  clear: both;
+  text-align: left;
+}
+.cid-qDLKkUSD6k .mbr-form .input-wrap {
+  display: inline-block;
+}
+.cid-qDLKkUSD6k .mbr-form input {
+  font-size: .9rem;
+  height: 3.5rem;
+  border: 0px solid;
+  border-radius: 5px;
+  width: 400px;
+  margin-right: .6rem;
+  padding: .5rem 1rem;
+}
+.cid-qDLKkUSD6k .input-group-btn {
+  display: inline-block;
+}
+.cid-qDLKkUSD6k .form-text {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-qDLKkUSD6k .subtext-1 {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-qDLKkUSD6k .subtext-2 {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-qDLKkUSD6k .column-menu ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  word-break: break-word;
+}
+.cid-qDLKkUSD6k .column-menu ul li {
+  padding: .2rem 0;
+}
+@media (max-width: 991px) {
+  .cid-qDLKkUSD6k .social-media {
+    padding: 0;
+    text-align: center;
+  }
+  .cid-qDLKkUSD6k .subtext-1,
+  .cid-qDLKkUSD6k .subtext-2,
+  .cid-qDLKkUSD6k .card-support {
+    text-align: center;
+  }
+  .cid-qDLKkUSD6k .mbr-list {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  .cid-qDLKkUSD6k .form-text {
+    text-align: center;
+  }
+  .cid-qDLKkUSD6k .follow-section {
+    margin: 0;
+  }
+  .cid-qDLKkUSD6k .mbr-form {
+    text-align: center;
+  }
+  .cid-qDLKkUSD6k .mbr-form input {
+    width: auto;
+  }
+  .cid-qDLKkUSD6k .social-media ul li {
+    margin-right: .1rem;
+  }
+  .cid-qDLKkUSD6k .follow-heading {
+    padding: 0;
+    text-align: center;
+  }
+  .cid-qDLKkUSD6k .firstColumn,
+  .cid-qDLKkUSD6k .secondColumn {
+    text-align: center;
+  }
+}
+.cid-qDLKkUSD6k LI {
+  color: #ffffff;
+}
